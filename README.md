@@ -18,4 +18,4 @@ Background in Economics (MA, Stella Maris College) with applied skills in Python
   [one-line description once you rename/rewrite this repo]
 
 ## 📫 Reach me
-[LinkedIn](your-linkedin-url) · [Resume](link if hosted) · dharshinee07@gmail.com
+[LinkedIn](www.linkedin.com/in/dharshinee-r-695719238)  · dharshinee07@gmail.com
